@@ -1,5 +1,7 @@
-# 1. 《 DOM Scripting 》
-This is my notes and exercises after reading 《DOM Scripting》
+1.  DOM Scripting 
+===========================
+This is my notes and exercises after reading "DOM Scripting"
+****
 A First Level Header
 ====================
 A Second Level Header
