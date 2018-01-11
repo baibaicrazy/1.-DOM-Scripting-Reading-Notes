@@ -1,6 +1,6 @@
 《DOM Scripting》Reading Notes  
 ====
-阅读《DOM Scripting》后的笔记与小练习。
+阅读《DOM Scripting》后的吐槽与小练习。
 
 ****
 	
